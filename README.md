@@ -1,13 +1,10 @@
 # opentsdb_dev
 ## 开发环境
 
-```
 opentsdb官方的工程管理通过：make、automake、autoconfig管理，这里将原有的工程管理方式修改为maven,以下为通过idea运行时，需要注意的地方。
-```
 
 ![image-20201221114204204](./README.assets/image-20201221114204204.png)
-![image-20201221115306366](.\README.assets\image-20201221115306366.png)
-
+![image-20201221115306366](./README.assets/image-20201221115306366.png)
 
 
 ## 新需求
